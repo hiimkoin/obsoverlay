@@ -17,8 +17,12 @@ the __ObsOverlay with Overlayer__.
 There is a window for stats, I think the easiest is to place them manually in OBS.
 
 ## Download
-* [ObsOverlay]()
-* [ObsOverlay with Overlayer]()
+* [ObsOverlay](https://github.com/hiimkoin/obsoverlay/releases/download/0.0.1/ObsOverlay-Stream.zip)
+* [ObsOverlay with Overlayer](https://github.com/hiimkoin/obsoverlay/releases/download/0.0.1/ObsOverlay-Full.zip)
 
 ## Screenshot
-![example]()
+![example](https://raw.githubusercontent.com/hiimkoin/obsoverlay/master/screenshot.png)
+
+## Code used
+* [client and war3observer.exe](https://github.com/hiimkoin/war3observer)
+* [overlayer](https://github.com/hiimkoin/overlayer)
